@@ -1,0 +1,2 @@
+# This repo is part of a larger tutorial series at [Binary Workspace](https://www.binaryworkspace.com/).
+## JOGL Sandbox for Eclipse 4.5.1 RCP 3.x: [Post: 05530](https://www.binaryworkspace.com/05530.html)
